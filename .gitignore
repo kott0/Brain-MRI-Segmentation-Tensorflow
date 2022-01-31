@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*kaggle*
+*lgg*
+*archive.zip
+archive.zip
+envconda_mri/
+*envconda_*
