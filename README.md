@@ -1,1 +1,1 @@
-# Brain-Tumor-Segmentation-Tensorflow
+# Brain-MRI-Segmentation-Tensorflow
