@@ -7,7 +7,7 @@ Data source: Brain MRI segmentation, https://www.kaggle.com/mateuszbuda/lgg-mri-
 Paste the data to `source_data` folder.
 
 ### Requirements
-* pip install -f requirements.txt
+* pip install -r requirements.txt
 
 
 #### LGG Segmentation Dataset
