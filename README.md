@@ -1,15 +1,16 @@
 # Brain-MRI-Segmentation-Tensorflow
-# Readme
+## Readme
 Brain Tumor Segmentation using Tensorflow
 
 
 Data source: Brain MRI segmentation, https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 Paste the data to `source_data` folder.
 
-## Requirements
+### Requirements
 * pip install -f requirements.txt
 
-### LGG Segmentation Dataset
+
+#### LGG Segmentation Dataset
 
 This dataset contains brain MR images together with manual FLAIR abnormality segmentation masks.
 The images were obtained from The Cancer Imaging Archive (TCIA).
